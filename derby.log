@@ -1,0 +1,19 @@
+----------------------------------------------------------------
+Tue Nov 10 22:01:44 EET 2026:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-01a1-c70d-5e21-00000ed89468 
+on database directory C:\Users\Admin\CelojumuAgenturaDB\agenturas_db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Admin/Desktop/Celojumu_Agenturas_Sistema_Silovs_Citalkins/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=17.0.10+11-LTS-240
+user.dir=C:\Users\Admin\Desktop\Celojumu_Agenturas_Sistema_Silovs_Citalkins
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Nov 10 22:03:08 EET 2026: Shutting down Derby engine
+----------------------------------------------------------------
+Tue Nov 10 22:03:08 EET 2026:
+Shutting down instance a816c00e-01a1-c70d-5e21-00000ed89468 on database directory C:\Users\Admin\CelojumuAgenturaDB\agenturas_db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+----------------------------------------------------------------
